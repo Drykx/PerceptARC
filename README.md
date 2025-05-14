@@ -8,9 +8,9 @@
 
 ## 📄 Final Report
 
-You can download the full PDF report from the [Releases page](https://github.com/yourusername/yourrepo/releases/latest).
+You can download the full PDF report from the [Releases page](https://github.com/Drykx/PerceptARC/releases/tag/v1.0).
 
-[![Download PDF](https://img.shields.io/badge/Download-Final_Report-blue)](https://github.com/yourusername/yourrepo/releases/latest)
+[![Download PDF](https://img.shields.io/badge/Download-Final_Report-blue)](https://github.com/Drykx/PerceptARC/releases/tag/v1.0)
 
 > ⚠️ As I will be competing this year, I’ve decided not to share my code or final results publicly. However, I’m sharing my notes to help others get started with ARC-AGI.  
 >  
