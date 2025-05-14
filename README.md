@@ -1,4 +1,4 @@
-# EPFL Semester Project – Mathematics for Data Science Lab
+# EPFL Project – Mathematics for Data Science Lab
 
 **10 ECTS semester project conducted at EPFL's Mathematics for Data Science Lab**  
 📅 *23 September 2024 – 3 January 2025*  
