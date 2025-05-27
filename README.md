@@ -29,7 +29,7 @@ Despite time constraints, we hand-labeled 200 tasks—laying the foundation for 
 
  Ultimately, we argue that abstraction in language models may require mechanisms akin to the quotient operator in mathematics, and propose future directions inspired by DreamCoder-style neural program induction.
  
-> I believe this work points toward the need for a new field of mathematics — one that redefines what information is, and the kinds of transformations that preserve it. This new framework may intersect with ideas from physical entropy in physics and informational entropy in computer science, but it goes further: it demands a formalism for abstraction itself. Such a foundation could help explain how intelligent systems represent, compress, and reason about structure and why current models fall short.
+> I believe this work points toward the need for a new field of mathematics — one that redefines what information is, and the kinds of transformations that preserve it. This new framework may intersect with ideas from physical entropy in physics and informational entropy in computer science. Such a foundation could help explain how intelligent systems represent, compress, and reason about structure and why current models fall short.
 
 ---
 
