@@ -15,7 +15,7 @@ You can download the full PDF report from the [Releases page](https://github.com
 
 > ⚠️ As I will be competing this year, I’ve decided not to share my code or final results publicly. However, I’m sharing my notes to help others explore ARC-AGI.  
 >  
-> 💬 Feel free to reach out if you'd like to discuss the project: **delineauj@gmail.com**
+> 💬 Feel free to reach out if you'd like to discuss: **delineauj@gmail.com**
 
 ---
 
