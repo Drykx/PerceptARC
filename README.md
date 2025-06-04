@@ -2,7 +2,6 @@
 
 **Semester Project – Mathematics for Data Science Lab, EPFL**  
 📅 *23 September 2024 – 3 January 2025*  
-📍 *École Polytechnique Fédérale de Lausanne (EPFL)*  
 🎓 *10 ECTS project*
 
 ---
@@ -14,7 +13,6 @@ You can download the full PDF report from the [Releases page](https://github.com
 [![Download PDF](https://img.shields.io/badge/Download-Final_Report-blue)](https://github.com/Drykx/PerceptARC/releases/tag/v1.0)
 
 > ⚠️ As I will be competing this year, I’ve decided not to share my code or final results publicly. However, I’m sharing my notes to help others explore ARC-AGI.  
->  
 > 💬 Feel free to reach out if you'd like to discuss: **delineauj@gmail.com**
 
 ---
